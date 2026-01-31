@@ -1,6 +1,14 @@
 # 💫 About Me:
 I am a second-year student at RTU MIREA studying Full-Stack Development. I’m especially passionate about frontend because I enjoy creating interfaces that feel smooth, modern, and pleasant to use. I like exploring new technologies, understanding how things work, and building projects that can actually help people.
 
+## 📒 Repository Structure
+
+My repositories are divided into several parts, with different tags before the names:
+- **UNI** — projects for my university (RTU MIREA)
+- **DPO** — projects for professional development courses from RTU MIREA
+- **RDN** — commercial projects
+- **VAV** — my personal projects
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z11ec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vav3538@gmail.com) 
