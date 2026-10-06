@@ -2,7 +2,7 @@
 
 Full-stack developer in Budapest. Computer Science student at ELTE (2026–2029).
 
-Two years of commercial work: a year of freelancing (websites, Telegram bots and scrapers for small businesses), then the only developer at a small company in Moscow. There I built internal tools, a RAG search over Telegram chats and the company's VPN infrastructure.
+Two years of commercial work: a year of freelancing (websites, Telegram bots and scrapers for small businesses), then the only developer at a company in Moscow. There I built internal tools, a RAG search over Telegram chats, the company's VPN infrastructures, maintained the servers and kept the company's entire infrastructure running.
 
 Open to internships and part-time roles in Budapest, and to remote work.
 
@@ -18,17 +18,14 @@ Open to internships and part-time roles in Budapest, and to remote work.
 
 ## Stack
 
-- **Python:** FastAPI, Flask, SQLAlchemy, Alembic, pytest, asyncio
+- **Python:** FastAPI, Flask, SQLAlchemy, Alembic, pytest, asyncio, pandas, aiogram, telethon
 - **Frontend:** TypeScript, React, Vue, Tailwind CSS, Vite
-- **Other languages:** C++17, C# / .NET
+- **Other languages:** C, C++17, C# / .NET, Haskell
 - **Data:** PostgreSQL, SQLite, ChromaDB
-- **Infrastructure:** Linux, Docker, Docker Compose, Nginx, Caddy, GitHub Actions
-- **Networking:** Xray (VLESS + Reality), Hysteria 2
+- **Infrastructure:** Linux, Docker, Docker Compose, Nginx, Caddy, GitHub Actions, CI/CD
+- **Networking:** Xray, Hysteria 2, VLESS, Reality, XHTTP; multi-server network with traffic forwarding and automated server deployment
 
-## Repository prefixes
-
-UNI — university coursework · DPO — continuing-education course · RDN — commercial work · VAV — personal projects
 
 ## Contact
 
-[vav3538@gmail.com](mailto:vav3538@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-fomin) · [fomin-vladimir.ru](https://fomin-vladimir.ru)
+[vav3538@gmail.com](mailto:vav3538@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vladimir-fomin-9a7681428/) · [fomin-vladimir.ru](https://fomin-vladimir.ru)
